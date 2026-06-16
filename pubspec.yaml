@@ -1,7 +1,7 @@
 name: flutter_artist_router_demo
 description: "FlutterArtistRouter Demo"
 version: 1.0.0+1
-resolution: workspace
+# resolution: workspace
 
 environment:
   sdk: ^3.12.2
